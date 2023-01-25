@@ -135,7 +135,7 @@ p {
 /* Referenciando o 1°Slide */
 /* IMAGENS */
 .container-Projeto .slide-container:nth-child(1) .slide {
-    background: url(img/slide_1.png);
+    background: url(/img/slide_1.png);
     background-repeat: no-repeat;
     background-position-x: center;
     max-width: 100%;
@@ -144,7 +144,7 @@ p {
 }
 
 .container-Projeto .slide-container:nth-child(2) .slide {
-    background: url(../img/slide_2.png);
+    background: url(/img/slide_2.png);
     background-repeat: no-repeat;
     background-position-x: center;
     max-width: 100%;
@@ -152,7 +152,7 @@ p {
 }
 
 .container-Projeto .slide-container:nth-child(3) .slide {
-    background: url(./img/slide_3.png);
+    background: url(/img/slide_3.png);
     background-repeat: no-repeat;
     background-position-x: center;
     max-width: 100%;
