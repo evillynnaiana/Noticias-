@@ -1,2 +1,2 @@
 Onepage
-https://evillynnaiana.github.io/Evillyn_Naiane_Ternopilski/
+https://evillynnaiana.github.io/Noticias-/
